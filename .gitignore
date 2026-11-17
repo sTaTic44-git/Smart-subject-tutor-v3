@@ -229,3 +229,4 @@ credentials.json
 __pycache__/
 .venv/
 >>>>>>> v1/main
+.venv/
