@@ -230,3 +230,15 @@ __pycache__/
 .venv/
 >>>>>>> v1/main
 .venv/
+
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+uploads/.venv/
